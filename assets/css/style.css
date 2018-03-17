@@ -1,0 +1,66 @@
+#container {
+    width: 980px;
+    margin:  50px auto;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+header {
+    background: rgb(128, 76, 47);
+    border-radius: 10px;
+    padding: 50px 0;
+    margin-bottom: 30px;
+}
+
+section, aside{
+    padding: ;
+    border-radius: 10px;
+    border: solid 2px rgb(0, 81, 255);
+
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+.title {
+    color: white;
+    background-color: rgb(0, 81, 255);
+    font-weight: 700;
+    padding: 5px 10px;
+}
+
+thead{
+    font-weight: 700;
+    text-align: left;
+    
+}
+
+tr{
+  
+}
+
+#name {
+    padding: 5px;
+    width: 250px;
+}
+
+#dest{
+    width: 180px;
+}
+
+#freq{
+    width: 180px;
+}
+#next{
+    width: 180px;
+}
+
+#away{
+    width: 180px;
+}
